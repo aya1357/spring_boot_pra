@@ -1,1 +1,1 @@
-Spring Boot 3, Spring 6
+Spring Boot 3  Spring 6
